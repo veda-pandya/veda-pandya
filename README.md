@@ -4,7 +4,7 @@ I'm a software engineer passionate about building real-world solutions through t
 
 🔭 Currently working on:
 
--**Smart Spoon**: An interactive meal planning app designed to promote minimizing food waste and sustainable cooking
+- **Smart Spoon**: An interactive meal planning app designed to promote minimizing food waste and sustainable cooking
 
 🌱 Currently learning
 
