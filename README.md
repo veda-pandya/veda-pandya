@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Veda! 👋
 
-<!--
-**veda-pandya/veda-pandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about building real-world solutions through technology. My focus is on creating intuitive, user-friendly web applications that solve problems and improve everyday life.
 
-Here are some ideas to get you started:
+🔭 Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-**Smart Spoon**: An interactive meal planning app designed to promote minimizing food waste and sustainable cooking
+
+🌱 Currently learning
+
+- Expanding my knowledge in algorithms, system design, and AI integration to create more scalable, efficient solutions.
+
+Feel free to check out my work, and don’t hesitate to connect if you’re interested in collaborating or connecting!
+
+[https://www.linkedin.com/in/veda--pandya/]
+
+
+
+
