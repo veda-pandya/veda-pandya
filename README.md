@@ -10,7 +10,7 @@ I'm a software engineer passionate about building real-world solutions through t
 
 - Expanding my knowledge in algorithms, system design, and AI integration to create more scalable, efficient solutions.
 
-Feel free to check out my work, and don’t hesitate to connect if you’re interested in collaborating or connecting!
+Feel free to check out my work, and don’t hesitate to reach out if you’d like to collaborate or simply connect!
 
 [https://www.linkedin.com/in/veda--pandya/]
 
